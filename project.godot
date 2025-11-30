@@ -11,6 +11,7 @@ config_version=5
 [application]
 
 config/name="tuto3"
+run/main_scene="uid://dk7anpsk61y1f"
 config/features=PackedStringArray("4.5", "Forward Plus")
 config/icon="res://icon.svg"
 
